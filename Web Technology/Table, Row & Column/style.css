@@ -1,0 +1,29 @@
+
+  
+  table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 60;
+  }
+  
+  table, th, th {
+    border: 1px solid #000000;
+  }
+  
+  th, th {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* th {
+    background-color: #f4f4f4;
+  } */
+  
+  
+  td{
+    background-color: rgba(227, 228, 220, 0.556);
+    border: 1px solid;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
